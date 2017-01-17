@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Last Updated Date
-Plugin URI: https://wordpress.org/plugins/accelerated-mobile-pages/
+Plugin URI: https://github.com/sophy/Last-Updated-Date
 Description: This play the last update of posts, pages
-Version: 1.0.0
+Version: 1.0.1
 Author: Sophy Prak
 Author URI: https://themecountry.com/
 License: GPL2
