@@ -2,7 +2,7 @@
 /*
 Plugin Name: Last Updated Date
 Plugin URI: https://github.com/sophy/Last-Updated-Date
-Description: This play the last update of posts, pages
+Description: The plugin replaces published date with last updated date.
 Version: 1.0.1
 Author: Sophy Prak
 Author URI: https://themecountry.com/
